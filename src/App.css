@@ -1,0 +1,47 @@
+.store-container {
+  float: left;
+  margin: 10px;
+  width: 680px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  border: 1px solid #333;
+}
+
+.owned-container {
+  float: left;
+  margin: 10px;
+  width: 680px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  border: 1px solid #333;
+}
+
+h1 {
+  margin: 20px;
+}
+
+.comic {
+  background-color: white;
+  border-radius: 10px;
+  height: 250px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.comic-thumbnail-container {
+  float: left;
+  margin: 10px;
+}
+
+.comic-data-container {
+  float: left;
+  margin: 10px;
+}
+
+.comic-thumbnail {
+  width: 150px;
+}
+
+.selected {
+  background-color: limegreen;
+}
