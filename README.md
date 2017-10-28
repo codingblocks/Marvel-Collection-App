@@ -1,3 +1,7 @@
+Check out the video of Zac Braddy and Joe Zack pair programming through this project out YouTube: https://www.youtube.com/playlist?list=PLWWyzc5ehM92Sp4T1NE1-_lELthtR1Wgz
+
+--
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
